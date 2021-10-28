@@ -1,3 +1,6 @@
+# Note from the Dev
+This project has been tested with Live Server, a VSCode extension by Ritwick Dey.
+
 # Object Oriented Javascript 
 
 ## Student Instructions
@@ -15,7 +18,7 @@ For the project, you will generate a 3x3 grid of tiles (9 in total) with the hum
 
 We have supplied some of the foundational code for you. So follow these steps to get started:
 
-1. We'll start with the typical setup - clone theis repo and install the dependencies
+1. We'll start with the typical setup - clone this repo and install the dependencies
 
 ```git clone git@github.com:udacity/Javascript.git```
 
